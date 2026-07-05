@@ -39,4 +39,4 @@ Expert iOS developer with 7 years of experience in developing SmartThings iOS ap
 
 ### Education
 Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh
-B. Sc. in Computer Science and Engineering (CSE) | CGPA: 3.00 (Out of 4.00) | February 2012 to April 2016
+B. Sc. in Computer Science and Engineering (CSE) | February 2012 to April 2016
